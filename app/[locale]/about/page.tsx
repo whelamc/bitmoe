@@ -13,7 +13,7 @@ type params = {
   type?: string;
 };
 
-export function IconComponent({params}:{params: any}) {
+export function IconComponent(params:params) {
   switch (params.type) {
     case "Phone":
       return <FaPhoneAlt className="m-auto mb-4 text-4xl"/>;
@@ -61,7 +61,7 @@ export default function Page() {
             {item2.map((i)=>{
               return (
                 <div className="flex-1 sm:flex-none" key={i.type}>
-                <IconComponent type={i.type} />
+                <IconComponent type={i.type || ""} />
                 <p>{tc(`${i.type}-slug`)}</p>
               </div>
               )
