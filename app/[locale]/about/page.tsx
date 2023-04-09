@@ -9,22 +9,6 @@ import { info, contact } from "@/lib/about";
 
 import {useTranslations} from 'next-intl';
 
-type params = {
-  type?: string;
-};
-
-export function IconComponent(params:params) {
-  switch (params.type) {
-    case "Phone":
-      return <FaPhoneAlt className="m-auto mb-4 text-4xl"/>;
-    case "Email":
-      return <FaMailBulk className="m-auto mb-4 text-4xl"/>;
-    case "Address":
-      return <FaAddressCard className="m-auto mb-4 text-4xl"/>;
-    default:
-      return <FaAngleDoubleRight className="m-auto mb-4 text-4xl"/>;
-  }
-}
 export default function Page() {
   const item = info;
   const item2 = contact;
@@ -61,7 +45,7 @@ export default function Page() {
             {item2.map((i)=>{
               return (
                 <div className="flex-1 sm:flex-none" key={i.type}>
-                <IconComponent type={i.type || ""} />
+                {i.type=="Phone"?(<FaPhoneAlt className="m-auto mb-4 text-4xl"/>):i.type=="Email"?(<FaMailBulk className="m-auto mb-4 text-4xl"/>):i.type=="Address"?(<FaAddressCard className="m-auto mb-4 text-4xl"/>):(<FaAngleDoubleRight className="m-auto mb-4 text-4xl"/>)}
                 <p>{tc(`${i.type}-slug`)}</p>
               </div>
               )
