@@ -1,15 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 项目介绍
+
+This project is a single page application for enterprise website, built with Next.js 13, Tailwind CSS, and Framer Motion. The goal is to provide a modern and efficient front-end solution that delivers exceptional user experience and performance.
+（Appdir）
+
+## 技术栈
+
+* Next.js 13: A server-rendered application framework based on React, which provides excellent SEO performance and fast page response time.
+* Tailwind CSS: A feature-rich CSS framework that provides a wide range of pre-defined classes and utility tools, making it easy to write and customize styles.
+* Framer Motion: A powerful animation library that offers a variety of animation effects and interactive features, enhancing the user experience.
+
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
+pnpm build
+pnpm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
