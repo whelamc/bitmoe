@@ -1,9 +1,9 @@
-## 项目介绍
+## Introduction
 
 This project is a single page application for enterprise website, built with Next.js 13, Tailwind CSS, and Framer Motion. The goal is to provide a modern and efficient front-end solution that delivers exceptional user experience and performance.
 （Appdir）
 
-## 技术栈
+## Tech Stack
 
 * Next.js 13: A server-rendered application framework based on React, which provides excellent SEO performance and fast page response time.
 * Tailwind CSS: A feature-rich CSS framework that provides a wide range of pre-defined classes and utility tools, making it easy to write and customize styles.
