@@ -1,5 +1,5 @@
 import fs from "fs";
-import Link from "@/components/Link";
+import Link from "@/components/Link"; 
 import matter from "gray-matter";
 import { PostMetaData } from "@/lib/postMetadata";
 
