@@ -8,9 +8,6 @@ import { information } from "@/lib/introduction";
 import { NextIntlClientProvider } from "next-intl/client";
 import { notFound } from "next/navigation";
 
-const generateStaticParams = () => {
-  return [{ locale: "en" }, { locale: "de" }];
-};
 export default async function LocaleLayout({
   children,
   params: { locale },

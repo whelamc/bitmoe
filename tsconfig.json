@@ -19,12 +19,12 @@
         "name": "next"
       }
     ],
-    "baseUrl": "./",
     "paths": {
-      "@/components/*": ["client/components/*"],
-      "@/lib/*": ["client/lib/*"],
-      "@/styles/*": ["client/styles/*"],
-      "@/json/*": ["client/json/*"]
+      "@/components/*": ["./client/components/*"],
+      "@/lib/*": ["./client/lib/*"],
+      "@/styles/*": ["./client/styles/*"],
+      "@/json/*": ["./client/json/*"],
+      "@/i18n/*": ["./i18n/*"],
     }
   },
   "include": [
