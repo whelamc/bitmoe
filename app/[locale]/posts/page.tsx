@@ -1,9 +1,9 @@
 import fs from "fs";
-import Link from "@/components/Link"; 
+import Link from "@/components/Link";
 import matter from "gray-matter";
 import { PostMetaData } from "@/lib/postMetadata";
 
-export function getPostMetadata(): PostMetaData[] {
+const getPostMetadata = (): PostMetaData[] => {
   const folder = "_posts/";
   const files = fs.readdirSync(folder);
   const markdownPosts = files.filter((file) => file.endsWith(".md"));
@@ -20,7 +20,7 @@ export function getPostMetadata(): PostMetaData[] {
   });
 
   return posts;
-}
+};
 
 export default function Page() {
   const postMetadata = getPostMetadata();
