@@ -7,7 +7,6 @@ type Props = {
   };
 };
  
-
 export default async function Head({params: {locale}}: Props) {
   let messages;
   try {
