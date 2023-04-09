@@ -9,8 +9,12 @@ import { info, contact } from "@/lib/about";
 
 import {useTranslations} from 'next-intl';
 
-export function IconComponent({type}:{type:string}) {
-  switch (type) {
+type params = {
+  type?: string;
+};
+
+export function IconComponent({params}:{params: any}) {
+  switch (params.type) {
     case "Phone":
       return <FaPhoneAlt className="m-auto mb-4 text-4xl"/>;
     case "Email":
