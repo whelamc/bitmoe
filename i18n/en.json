@@ -1,0 +1,75 @@
+{
+  "Head": {
+    "title": "BITMOE - Bitmoe Infomation Technology",
+    "description": "BITMOE is a new generation technology company dedicated to the research and development of information technology, mainly engaged in e-commerce technology research and development, computer system maintenance, computer/mobile device software development, etc.",
+    "keywords": "Biteme, Intellectual Property, Information Technology, Mini Program, Website"
+  },
+  "Nav": {
+    "about": "About",
+    "contact": "Contact",
+    "langContent": "中文"
+  },
+  "Footer": {
+    "description": "Bitmoe information team started to build in late 2015, and the “bit“ in the company name “Bitmoe“ is taken from the basic computer unit of measurement “bit“, which means Information“ technology, and the word “Moe“ (meaning “sprout“) in the “Rites of the Month“, which means “the one who makes a sentence will come out, and the one who sprouts will be reached“, is combined to form a new phrase; it reflects our confidence and vision for the future development of information technology. It reflects our confidence and vision for the future development of information technology. Our company adheres to the information / credit, access to the future. The company's business philosophy is to help all market players strengthen their information functions and win the information war in the future...",
+    "aboutTitle": "About",
+    "infoTitle": "Legal",
+    "subsContact": "Contact Us",
+    "subsTaobao": "Taobao Shop",
+    "subsJoin": "Join Us",
+    "subsAgreement": "Service Agreement",
+    "subsPrivate": "Privacy Policy",
+    "subsKnowledge": "Intellectual Property"
+  },
+  "Index": {
+    "title": "title",
+    "slug": "Greetings Message Service No.1 Brand",
+    "memo": "Started on 01/28/2016 AD",
+    "productAskBtn": "Product Inquiry",
+    "productViewBtn": "Product Preview"
+  },
+  "About": {
+    "title": "About",
+    "history": "Company Chronicle",
+    "contact": "Contact Us"
+  },
+  "Doc": {
+    "title": "Document"
+  },
+  "Timeline": {
+    "1-title": "Bitmoe Information Participates in the SAR Blockchain Electronic Invoice Pilot",
+    "1-description":"Keeping pace with the times, Bitmeng Information participates in the blockchain electronic invoicing pilot in Shenzhen Special Economic Zone.",
+    "1-date": "December 22, 2018",
+    "2-title": "Bitmoe Information's total tax payments for 2017 increased 20 times over the previous year Plan completed",
+    "2-description":"In May 2018, the Company completed the 2017 annual remittance and completed the budget of 20 times increase in total tax payment for the year compared to the previous year.",
+    "2-date": "May 30, 2018",
+    "3-title": "The business connection between Bitmoe Information Company and government departments is completed",
+    "3-description":"In April 2016, the Company completed the opening of accounts with banks and the actual payment of the Company's registered capital.",
+    "3-date": "April 11, 2016",
+    "4-title": "Bitmoe Information Company was officially incorporated",
+    "4-description":"At the beginning of 2016, in response to Premier Li's slogan “Mass Entrepreneurship, Mass Innovation“, Bitmoe team decided to convert the team into a limited company to better assist IT services.",
+    "4-date": "January 28, 2016",
+    "5-title": "Bitmoe co-founder team completed formation",
+    "5-description":"At the end of 2015, eight HEXO enthusiasts from all over the country committed themselves to the promotion of information technology with the concept of ”Shinta Future“.",
+    "5-date": "November 23, 2015"
+  },
+  "Contact": {
+    "Phone-slug": "0755-33940020",
+    "Email-slug": "support@bitmoe.com",
+    "Address-slug": "A603, Building G, E-commerce Innovation Service Base, Nanshan, Shenzhen, Guangdong, China",
+    "Other-slug": "QQ Wangwang And more"
+  },
+  "Products": {
+    "Valine-name": "Valine",
+    "Valine-slug": "A fast, simple and efficient backend-less commenting system.",
+    "Valine-description": "Born on August 7, 2017, Valine is a fast, clean and efficient backend-less commenting system based on LeanCloud. Theoretically supporting but not limited to static blogs, Valine is already being used by blogs and documentation programs such as Hexo, Jekyll, Typecho, Hugo, Ghost, Docsify, and more.",
+    "PortableHexo-name": "Portable Hexo",
+    "PortableHexo-slug": "HEXO Portable Version",
+    "PortableHexo-description": "Simple, easy to use, all in one fell swoop, for you to focus on writing blogs",
+    "ASPICE-name": "ASPICE",
+    "ASPICE-slug": "Automated evaluation system for automotive mechanical development process",
+    "ASPICE-description": "Automated evaluation system for automotive mechanical development process",
+    "ONEDATA-name": "ONEDATA",
+    "ONEDATA-slug": "Unified financial access to data systems",
+    "ONEDATA-description": "Unified financial access to data systems"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Head": {
+    "title": "BITMOE - 比特萌信息公司",
+    "description": "比特萌信息(BITMOE) 是一家致力于信息技术的研究及开发的新一代科技公司，主营电子商务技术研发、计算机系统维护、计算机/移动设备软件开发等。",
+    "keywords": "比特萌, 知识产权, 信息科技, 小程序, 网站"
+  },
+  "Nav": {
+    "about": "关于我们",
+    "contact": "联系我们",
+    "langContent": "En"
+  },
+  "Footer": {
+    "description": "比特萌信息团队于2015年末开始筹建，企业字号“比特萌”中的“比特”取自计算机基本计量单位“比特”，寓意“信息”技术，另取《礼记·月令》“句者毕出,萌者尽达”中的“萌”字（萌芽之意），合并组成一个新词组；体现我司对于信息技术发展未来的信心及愿景。 我公司秉承 信息 / 信用，通达未来。的企业经营理念，助力天下各市场主体强化自身信息职能，打赢未来信息战争...",
+    "aboutTitle": "关于我们",
+    "infoTitle": "法律信息",
+    "subsContact": "联系我们",
+    "subsTaobao": "淘宝店铺",
+    "subsJoin": "加入我们",
+    "subsAgreement": "服务协议",
+    "subsPrivate": "隐私政策",
+    "subsKnowledge": "知识产权"
+  },
+  "Index": {
+    "title": "标题",
+    "slug": "致 敬 信 息 服 务 第 一 品 牌",
+    "memo": "始于公元2016年01月28日",
+    "productAskBtn": "产品咨询",
+    "productViewBtn": "产品预览"
+  },
+  "About": {
+    "title": "关于我们",
+    "history": "公司纪事",
+    "contact": "联系我们"
+  },
+  "Doc": {
+    "title": "文档"
+  },
+  "Timeline": {
+    "1-title": "比特萌信息参与特区区块链电子发票试点工作",
+    "1-description":"紧跟时代步伐，比特萌信息参与深圳经济特区的区块链电子发票试点工作。",
+    "1-date": "2018年12月22日",
+    "2-title": "比特萌信息2017年度纳税总额较上年增长20倍计划完成",
+    "2-description":"2018年05月，公司完成了2017年度汇算清缴工作，完成当年纳税总额较上年增长20倍的预算。",
+    "2-date": "2018年05月30日",
+    "3-title": "比特萌信息公司与政府部门相关业务对接工作全部完成",
+    "3-description":"2016年4月，公司完成了与银行的开户工作，并完成公司注册资本的实际缴纳。",
+    "3-date": "2016年04月11日",
+    "4-title": "比特萌信息公司正式注册成立",
+    "4-description":"2016年初，为响应李总理 “大众创业 万众创新”口号，比特萌团队决定将团队转换成有限公司，以更好的助力信息技术服务。",
+    "4-date": "2016年01月28日",
+    "5-title": "比特萌联合创始人团队完成组建",
+    "5-description":"2015年末，来自全国各地的8位HEXO爱好者秉着“信达未来”的理念，致力于信息技术的推广团队。",
+    "5-date": "2015年11月23日"
+  },
+  "Contact": {
+    "Phone-slug": "拨打 0755-33940020 服务电话",
+    "Email-slug": "向 support@bitmoe.com 发邮件",
+    "Address-slug": "中国广东深圳南山电子商务创新服务基地 G栋A603",
+    "Other-slug": "客服QQ 客服旺旺 更多..."
+  },
+  "Products": {
+    "Valine-name": "Valine",
+    "Valine-slug": "一款快速、简洁且高效的无后端评论系统。",
+    "Valine-description": "Valine 诞生于2017年8月7日，是一款基于LeanCloud的快速、简洁且高效的无后端评论系统。理论上支持但不限于静态博客，目前已有Hexo、Jekyll、Typecho、Hugo、Ghost、Docsify 等博客和文档程序在使用Valine。",
+    "PortableHexo-name": "Portable Hexo",
+    "PortableHexo-slug": "HEXO 便携版",
+    "PortableHexo-description": "简单，易用，一气呵成抛开杂念，为专注于写博客的你而生",
+    "ASPICE-name": "ASPICE",
+    "ASPICE-slug": "汽车机械开发流程自动评估系统",
+    "ASPICE-description": "汽车机械开发流程自动评估系统",
+    "ONEDATA-name": "ONEDATA",
+    "ONEDATA-slug": "财务统一接入数据系统",
+    "ONEDATA-description": "财务统一接入数据系统"
+  }
+}

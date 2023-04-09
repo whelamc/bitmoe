@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Your default theme */
+  --background: white;
+  --foreground: gray;
+}
+
+[data-theme="dark"] {
+  --background: gray;
+  --foreground: white;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica, Arial, SF Pro, SF Pro Text, SF Pro Icons,
+    Helvetica Neue, PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif;
+}
