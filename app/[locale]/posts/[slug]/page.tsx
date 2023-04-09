@@ -2,7 +2,7 @@ import fs from 'fs';
 import matter from 'gray-matter';
 import Markdown from 'markdown-to-jsx';
 
-export function getPostContent(slug: string) {
+const getPostContent = (slug: string) => {
   const folder = '_posts/';
   const file = `${folder}${slug}.md`;
   const content = fs.readFileSync(file, 'utf8');
