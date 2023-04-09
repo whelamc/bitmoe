@@ -8,7 +8,7 @@ export default function LocaleSwitcher() {
   const t = useTranslations("Nav");
   const pathName = usePathname();
   const locale = useLocale();
-  const otherLocale = locale === "en" ? "" : "/en";
+  const otherLocale = locale === "en" ? "zh" : "/en";
   const linkUrl = `${otherLocale}${pathName.replace(`/${locale}`, "")}` || "/";
 
   return (
